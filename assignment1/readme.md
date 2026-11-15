@@ -53,8 +53,8 @@ Consequently, Postman demonstration screenshots are provided as evidence of the 
 
 Postman Demonstrations:
 💠**Demonstration 1: **
-![alt text](2.png)
+![alt text](./2.png)
 
 💠**Demonstration 2: **
-![alt text](3.png)
+![alt text](./3.png)
 
