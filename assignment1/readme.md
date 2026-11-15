@@ -52,12 +52,9 @@ During testing, Gemini exhibited significant response latency and frequently ret
 Consequently, Postman demonstration screenshots are provided as evidence of the implementation and API interaction.
 
 Postman Demonstrations:
-💠Demonstration 1: 
+💠**Demonstration 1: **
 ![alt text](2.png)
 
-💠Demonstration 2: 
+💠**Demonstration 2: **
 ![alt text](3.png)
 
-Demonstration 1: 2.png
-
-Demonstration 2: 3.png
