@@ -6,8 +6,10 @@ A Spring application that classifies input text as a **complaint**, **query**, o
 
 Gemini experienced extreme latency and frequently returned HTTP 500 errors during testing, so the Postman demonstrations are provided as screenshots:
 
-- [Postman demonstration 1](2.png)
-- [Postman demonstration 2](3.png)
+- [Postman demonstration 1]
+- ![alt text](2.png)
+- [Postman demonstration 2]
+- ![alt text](3.png)
 
 ## Assignment 2: Email Template Microservice
 
