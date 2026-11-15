@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: assignment2
+
+server:
+  port: 8080
+
+gemini:
+  base-url: https://generativelanguage.googleapis.com/v1beta
+  model: gemini-3.8-flash
+  api-key: ${GEMINI_API_KEY}
