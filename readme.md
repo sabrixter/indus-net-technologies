@@ -15,4 +15,5 @@ Gemini experienced extreme latency and frequently returned HTTP 500 errors durin
 
 A microservice that generates an email template based on the requested tone and addresses the recipient by name using `recipient_name`.
 
-Postman demonstration: [View screenshot](1.png)
+Postman demonstration: [View screenshot]
+![alt text](1.png)
